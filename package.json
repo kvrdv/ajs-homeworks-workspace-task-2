@@ -1,0 +1,28 @@
+{
+  "name": "ajs-homeworks-workspace-task-2",
+  "version": "1.0.0",
+  "description": "[Домашнее задание №3 К лекции №1](https://github.com/netology-code/ajs-homeworks/tree/ajs8/workspace)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvrdv/ajs-homeworks-workspace-task-2.git"
+  },
+  "author": "kvrdv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvrdv/ajs-homeworks-workspace-task-2/issues"
+  },
+  "homepage": "https://github.com/kvrdv/ajs-homeworks-workspace-task-2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5"
+  }
+}
